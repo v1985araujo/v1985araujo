@@ -17,7 +17,7 @@
 
 ###
 
-<h1 align="center">Ola, sejam bem-vindos ao meu portfólio👋</h1>
+<h1 align="center">Olá, sejam bem-vindos ao meu portfólio👋</h1>
 
 ###
 
