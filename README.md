@@ -61,5 +61,5 @@
 
 ###
 
-<img src="https://github.com/v1985araujo/v1985araujo/blob/main/snake.svg">
+<img src="https://raw.githubusercontent.com/v1985araujo/v1985araujo/main/snake.svg">
 
